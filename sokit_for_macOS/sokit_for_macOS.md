@@ -5,7 +5,9 @@ Steps to validate the communication between mac and win based on sokit(Mac mini)
 2)Configure the IP of sokit(server) and software in win (client)  the same as the IP of Mac. i.e. 192.168.43.1 port 9999(editable)
 3.Connect i.e click the connect button on sokit.
 4.Send command from sokit and check the response
+
 ------------------------------------------------------------------------------------------------
+
 Method to execute sokit on Mac:
 1.sokit executive file download link: https://github.com/rangaofei/SSokit-qmake/releases
 // just download the ssokit.dwg 

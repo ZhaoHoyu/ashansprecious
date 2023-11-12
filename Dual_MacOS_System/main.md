@@ -9,7 +9,7 @@ Tips for install an extra older version MacOS on a higher version MacOS
   (3)从菜单栏中选取“编辑”>“添加 APFS 宗卷”，或者点按“磁盘工具”工具栏中的“添加宗卷”按钮 (+)。仅当选择的宗卷采用 APFS 格式时，这些选项才可用。  
   (4)为新宗卷键入任意名称，然后点按“添加”。  
   (5)退出“磁盘工具”。  
-  ![image]([https://support.apple.com/zh-cn/HT208891](https://support.apple.com/library/content/dam/edam/applecare/images/zh_CN/macos/monterey/macos-monterey-disk-utility-add-volume.png))  
+  ![image]([https://support.apple.com/zh-cn/HT208891](https://support.apple.com/library/content/dam/edam/applecare/images/zh_CN/macos/monterey/macos-monterey-disk-utility-add-volume.png)
   
 3.检查本机是否从可引导安装器启动，确保“启动安全性实用工具”已设为允许从外部介质或可移动介质启动  
   (1)将你的 Mac 开机，然后在看到 Apple 标志后立即按住 Command (⌘)-R 键（或Win+R）。Mac 会从“macOS 恢复”启动。  
